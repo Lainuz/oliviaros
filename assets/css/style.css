@@ -1,0 +1,30 @@
+ * {
+     margin: 0;
+     padding: 0;
+     font-family: "Raleway", sans-serif;
+ }
+
+ nav {
+     background: #373A3C;
+ }
+
+ .nav-item a {
+     padding: 2% 0%;
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: 400;
+ }
+
+
+ .hero {
+     background-image: url("../img/bg-hero.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+
+
+ .card-img-top {
+     height: 230px;
+     object-fit: cover;
+ }
